@@ -90,41 +90,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY
 ```
 
 Live URL:  
-👉 Add your Vercel deployment link here
-
----
-
-## 📦 Local Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-bookmark-app.git
-```
-
-Navigate to the project:
-
-```bash
-cd smart-bookmark-app
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start development server:
-
-```bash
-npm run dev
-```
-
-Visit:
-
-```
-http://localhost:3000
-```
+👉 https://smart-bookmark-app-sigma-six.vercel.app/
 
 ---
 
