@@ -115,5 +115,12 @@ Live URL:
 
 ---
 
+⏱️ Known Limitation
+
+Real-time updates (add/delete) may take up to 30–60 seconds to reflect across tabs in some cases.
+
+This delay is likely due to Supabase free-tier Realtime performance or replication latency.
+
+Functionality works correctly, but slight delay may occur in cross-tab synchronization. 
 
 
